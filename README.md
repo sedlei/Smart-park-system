@@ -1,1 +1,1 @@
-重要代码部分，其中src项目是arkts项目里的一个文件夹，下面那个@huaweicloud/iot-device-sdk是导入的华为官方文档
+重要代码部分，其中src项目是arkts项目里的一个文件夹,所有的项目页面和iot连接的部分都在里面，下面那个@huaweicloud/iot-device-sdk是导入的华为官方文档
