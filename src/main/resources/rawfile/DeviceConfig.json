@@ -1,0 +1,14 @@
+{
+  "devices": [
+    {
+      "key": "温湿度传感器",
+      "deviceId": "68650e2632771f177b480f3d_device01",
+      "secret": "555211f6ecdd3227d58d91545a6b17e16ca19518cee95795ab0eeca683b18a39"
+    },
+    {
+      "key": "空气质量传感器",
+      "deviceId": "68650e2632771f177b480f3e_device02",
+      "secret": "tsl13476566961"
+    }
+  ]
+}
